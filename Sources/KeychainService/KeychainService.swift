@@ -35,7 +35,6 @@ public class KeychainService: NSObject {
                 return true
             }
             print(status)
-            
         }
         return false
     }
